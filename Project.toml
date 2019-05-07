@@ -1,0 +1,10 @@
+name = "JuliaAcademyData"
+uuid = "18b7da76-0988-5e3b-acac-6290be3a708f"
+authors = ["Matt Bauman <mbauman@gmail.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
